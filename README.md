@@ -1,5 +1,5 @@
 # The Currents of Conflict
-----
+
 #### The code repository for the article "The Currents of Conflict: Using patterns of past violence to forecast future conflicts" by Simon Polichinel von der Maase.
 
 This repo contains all scripts (notebooks) needed to replicate the framework and results presented in the article. The order of execution is as follows:
